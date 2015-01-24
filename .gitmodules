@@ -1,0 +1,6 @@
+[submodule "app/src/main/jni/opencv"]
+	path = app/3rdParty/opencv
+	url = https://github.com/gpx1000/opencv
+[submodule "app/googletest/googletest_android_ndk-build"]
+	path = app/googletest/googletest_android_ndk-build
+	url = https://github.com/sfuku7/googletest_android_ndk-build
