@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Use the constants defined in the ContextualMenus.Command enum-->
+    <item
+        android:id="@+id/start_ssd"
+        android:title="START_IMAGING"
+        />
+    <item
+        android:id="@+id/get_directions"
+        android:title="GET_DIRECTIONS"
+        />
+    <item
+        android:id="@+id/stop_ssd"
+        android:title="STOP_THIS"
+        />
+    <item
+        android:id="@+id/stop_directions"
+        android:title="STOP_DIRECTIONS"
+        />
+</menu>
