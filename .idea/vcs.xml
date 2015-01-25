@@ -3,7 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/app/3rdParty/opencv" vcs="Git" />
+=======
+>>>>>>> 6cc11d0f03f353d7721493e27645961ef7d12697
   </component>
 </project>
 
